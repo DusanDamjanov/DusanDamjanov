@@ -1,6 +1,8 @@
 # 👋 Hello there, I'm Dušan
 
+
 🎓 Final-year Software Engineering student at the Faculty of Technical Sciences, University of Novi Sad 
+
 💻 Passionate about Backend Engineering, Full-Stack Development, and Scalable Cloud Systems
 
 ---
